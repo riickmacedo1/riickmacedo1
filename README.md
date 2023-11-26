@@ -1,7 +1,8 @@
 ### Fala galera, eu sou o Paulo Henrique!
 
 - 🎓 Estudante de Sistemas de Informação
-- 💻 Estudante Front-end ( JavaScript, ReactJs, Html5, Css3, Sass )
+- Atualmente como analista de sistemas, mas estudando e com foco no desenvolvimento web com as tecnologias abaixo
+- 💻 Estudante Front-end ( JavaScript, TypeScript ReactJs, Html5, Css3, Sass )
 
 <div align="center">
   <a href="https://github.com/riickmacedo1">
