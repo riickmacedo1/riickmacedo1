@@ -1,6 +1,6 @@
 ### Fala galera, eu sou o Paulo Henrique!
 
-- 🎓 Estudante de Sistemas de Informação
+- 🎓 Graduado em Sistemas de Informação
 - Atualmente como analista de sistemas, mas estudando e com foco no desenvolvimento web com as tecnologias abaixo
 - 💻 Estudante Front-end ( JavaScript, TypeScript ReactJs, Html5, Css3, Sass )
 
